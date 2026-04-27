@@ -1,0 +1,23 @@
+# Linux System Administration Lab
+
+## Overview
+Hands-on lab focused on Linux system administration, user management, and service configuration.
+
+## Key Tasks
+- Created and managed users and groups
+- Configured file permissions and ownership
+- Managed system services (SSH, Apache, Samba)
+- Implemented scheduled tasks using cron jobs
+- Monitored system processes and performance (htop)
+
+## Tools & Technologies
+- Linux (Kali / Ubuntu)
+- Bash
+- Cron
+- Systemctl / Services
+
+## Skills Demonstrated
+- Linux administration
+- System configuration and troubleshooting
+- Process and service management
+- Automation with cron jobs
