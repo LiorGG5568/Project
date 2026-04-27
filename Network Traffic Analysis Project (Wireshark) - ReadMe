@@ -1,0 +1,17 @@
+# Network Traffic Analysis Project (Wireshark)
+
+## Overview
+Analyzed a PCAP file using Wireshark to identify suspicious network activity.
+
+## Key Findings
+- Detected SYN Flood (DDoS attack) targeting port 80
+- Identified brute force attempts over SSH (port 22)
+- Analyzed traffic patterns and IP behavior
+
+## Tools Used
+- Wireshark
+
+## Skills Demonstrated
+- Network traffic analysis
+- Threat detection
+- Packet filtering
