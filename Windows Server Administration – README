@@ -1,0 +1,23 @@
+# Windows Server Administration Lab
+
+## Overview
+Hands-on lab focused on Windows Server infrastructure, Active Directory, and network services.
+
+## Key Tasks
+- Installed and configured Domain Controller
+- Managed Active Directory (Users, Groups, Organizational Units)
+- Applied Group Policy (GPO)
+- Configured DNS services
+- Worked with basic security configurations and permissions
+
+## Tools & Technologies
+- Windows Server
+- Active Directory
+- Group Policy Management
+- DNS
+
+## Skills Demonstrated
+- Windows Server administration
+- Identity and access management
+- Network services configuration
+- Troubleshooting enterprise environments
